@@ -1,1 +1,2 @@
 # DicinarioPython
+Este projeto apresenta uma aplicação de software desenvolvida em Python, projetada para realizar consultas em um dicionário, permitindo a escolha de itens com base em critérios específicos e previamente definidos. A aplicação exemplifica a utilização de técnicas avançadas de programação para relacionar variáveis de causa e efeito, fornecendo respostas precisas e baseadas em dados.
